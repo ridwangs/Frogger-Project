@@ -1,0 +1,14 @@
+.\objects\lab5.o: ..\Drivers\Lab5.c
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include\LPC17xx.H
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Include\core_cm3.h
+.\objects\lab5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Include\cmsis_version.h
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Include\cmsis_compiler.h
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Include\cmsis_armcc.h
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Include\mpu_armv7.h
+.\objects\lab5.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.5.0\Device\Include\system_LPC17xx.h
+.\objects\lab5.o: ..\Drivers\GLCD.h
+.\objects\lab5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\lab5.o: ..\Drivers\uart.h
+.\objects\lab5.o: ..\Drivers\GLCD_UTILS.h
+.\objects\lab5.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\Math.h
